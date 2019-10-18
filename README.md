@@ -15,3 +15,6 @@ You will create as a flutter library that can be used by any app that is looking
 * As a user I am able to point my camera at a document and the camera will auto detect the document edges and create an image of that document only by stripping away any background image captured in the original camera frame
 * The system will save the document as ? and save ?
  
+![alt text][sample]
+
+[sample]: https://github.com/lociiinnovation/trUUth_hackathon/blob/master/document-detection-scanning-sdk.png "Sample"
