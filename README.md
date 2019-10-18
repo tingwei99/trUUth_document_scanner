@@ -7,13 +7,12 @@ This also qualifies for special prizes at the Flow Studios hackathon on Saturday
 This open source library when completed will be part of a new platform that will let people reclaim, secure and monetise their data. Here from co-founder Nick Gatland at the event on the trUUth mission that is being led by the team from locii innovations and its collaborators across the globe.
 
 
-## trUUth challenge 1  : Document capture & trim (document scanner)
+## trUUth challenge 1  : Mobile App Document Scanner
  
-You will create as a flutter library that can be used by any app that is looking to capture a document such as a letter, bill (e.g. telephone bill), page of a legal document etc
+You will create as a Flutter package that can be used by any app implemented in Flutter to detect and scan any documents such as a passport, invoice, letter, bill, legal document etc and store the cropped image in either .png or .jpg format on the device. 
+
+The package must support both android and iOS devices. The package can be implmente using open source compter vision libraries (ie. [OpenCV](https://opencv.org/)) or any native libraries available on android and iOS.
  
-### Use case stories :
-* As a user I am able to point my camera at a document and the camera will auto detect the document edges and create an image of that document only by stripping away any background image captured in the original camera frame
-* The system will save the document as ? and save ?
- 
+#### Sample
 
 <img src="https://github.com/lociiinnovation/trUUth_hackathon/blob/master/document-detection-scanning-sdk.jpg" width=200/>
